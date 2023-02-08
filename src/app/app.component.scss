@@ -1,0 +1,25 @@
+
+
+  #container { width: 80%; height: 70%; margin: auto;  padding: 20px; border-radius: 40px; border: 6px  solid black; margin-top: 20px;  }
+.row { height: 150px; margin-bottom: 20px; position: relative; border-radius: 40px;}
+.row div { height: 100%; border-radius: 40px; }
+.mat-mdc-text-field-wrapper { border-radius: 40px;}
+.column-1 { width: 70%; border-radius: 40px;}
+.column-2 { width: 30%; border-radius: 40px;}
+.left {  float: left; background-color: black;}
+.right { float: right; background-color: red;}
+ 
+
+table {
+    width: 100%;
+  }
+td, th {
+    width: 25%;
+  }
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+
+  
